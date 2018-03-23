@@ -127,7 +127,7 @@ li {
   flex-direction: column;
   justify-content: space-between; }
   .head-look-ches .head-look-check-search {
-    dispay: flex;
+    display: flex;
     justify-content: space-between; }
     .head-look-ches .head-look-check-search .checkbox {
       display: flex;
